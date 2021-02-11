@@ -2,6 +2,8 @@
 
 Makes reading more fun and easier
 
+Practice on Wikipedia (my fav)
+
 Highlights the words for you as you go along
 
 Refresh page if not working 
