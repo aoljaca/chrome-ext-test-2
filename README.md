@@ -16,3 +16,5 @@ To turn off go to manage chrome extensions here --> chrome://extensions/
 
 Let me know if you would like different colors and or would like to contribute
 
+Make pull requests here https://github.com/aoljaca/chrome-reader-ext
+
